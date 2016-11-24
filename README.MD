@@ -18,3 +18,5 @@ Understanding  html and css elements
 * video.html
 * css-intro.html
 * css-intro-2.html
+* color.html
+* css-text.html
