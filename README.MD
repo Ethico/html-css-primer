@@ -16,3 +16,5 @@ Understanding  html and css elements
 * images.html
 * forms.html
 * video.html
+* css-intro.html
+* css-intro-2.html
