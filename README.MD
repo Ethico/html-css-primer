@@ -20,3 +20,4 @@ Understanding  html and css elements
 * css-intro-2.html
 * color.html
 * css-text.html
+* boxes.html
