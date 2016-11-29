@@ -1,10 +1,11 @@
 ## Project Name
-Html and Css primer
+HTML5 and CSS3 Primer
 
 ## Motivation
-Understanding  html and css elements 
+Understanding  HTML5 and CSS3 basics
 
-## Sequence to follow for revision
+## Demos
+#### HTML
 
 * firstwebpage.html
 * newelements.html
@@ -16,6 +17,9 @@ Understanding  html and css elements
 * images.html
 * forms.html
 * video.html
+
+#### CSS
+
 * css-intro.html
 * css-intro-2.html
 * color.html
@@ -23,3 +27,9 @@ Understanding  html and css elements
 * boxes.html
 * ltf.html
 * layout.html
+
+### Note
+
+Revisit below link for detailed examples
+
+[HTML CSS book examples](http://www.htmlandcssbook.com/code-samples/ "reference")
